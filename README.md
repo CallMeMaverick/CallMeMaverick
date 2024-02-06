@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @CallMeMaverick
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning C++ & Python 
+- 🌱 I’m currently learning C++ and Web
 - 💞️ I’m looking to collaborate on simple yet fascinating projects
 - 📫 Reach me via profile links to social media
 
