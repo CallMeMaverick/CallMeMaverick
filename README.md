@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for help with **anything that utilizes my skill stack**
 
-- 📫 How to reach me **ksviat21@gmail.com**
+- 📫 How to reach me **ksvyat21@gmail.com**
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
