@@ -30,10 +30,10 @@
 <h3 align="left">Tools:</h3>
 <div>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" title="WinForms_CPP" alt="WinForms_CPP" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/cmake/cmake-icon.svg" title="CMake" alt="CMake" width="40" height="40"/>&nbsp;
 </div>
 
