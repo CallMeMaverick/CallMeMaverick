@@ -23,7 +23,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="CPP" alt="CPP" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
-    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" title="Node" alt="Node" width="40" height="40"/>&nbsp;
 </div>
   
 <h3 align="left">Tools:</h3>
@@ -33,5 +34,8 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp; 
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" title="Express.JS" alt="Express.JS" width="40" height="40"/>&nbsp; 
+
 </div>
 
