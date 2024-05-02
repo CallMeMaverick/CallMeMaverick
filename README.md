@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Ukraine</h3>
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Node.JS**
 
 - 👯 I’m looking to collaborate on **simple yet fascinating projects**
 
