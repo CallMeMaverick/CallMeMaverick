@@ -1,41 +1,44 @@
 <h1 align="center">Hi 👋, I'm Sviatoslav</h1>
-<h3 align="center">A passionate developer from Ukraine</h3>
+<h3 align="center">A passionate developer from Ukraine 🇺🇦</h3>
+
+<p align="center">Software Engineering student with a strong background in coding and technology. Keen to engage in projects that push the boundaries of innovation and contribute tangible results.</p>
 
 
-- 🌱 I’m currently learning **Backend**
+<div align="center">
+  <h3>🤝 Connect with me:</h3>
+  <p>
+    <a href="https://www.linkedin.com/in/sviatoslav-kushnierov-53950726b" target="_blank">
+      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+    </a>
+    <a href="https://www.instagram.com/sviatoslav.kushnierov" target="_blank">
+      <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
+    </a>
+  </p>
 
-- 👯 I’m looking to collaborate on **simple yet fascinating projects**
+  <h3>👨🏻‍💻 My Tech Stack:</h3>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,next,mongo" alt="Tech Stack"/>
+      <br>
+      <img src="https://skillicons.dev/icons?i=cpp,python" alt="More Tech Stack"/>
+    </a>
+  </p>
 
-- 🤝 I’m looking for help with **anything that utilizes my skill stack**
-
-- 📫 How to reach me **ksvyat21@gmail.com**
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/sviatoslav-kushnierov-53950726b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sviatoslav kushnierov" height="30" width="40" /></a>
-<a href="https://instagram.com/skushnierov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="skushnierov" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Stack:</h3>
-  <div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="CPP" alt="CPP" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" title="Node" alt="Node" width="40" height="40"/>&nbsp;
+  <h3>⚙️ Tools:</h3>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,tailwind,git,jest" alt="Tools"/>
+    </a>
+  </p>
+  <div align="center">
+  <a href="https://giphy.com/gifs/pudgypenguins-work-computer-working-QDjpIL6oNCVZ4qzGs7" target="_blank">
+    <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="Working GIF"/>
+  </a>
 </div>
   
-<h3 align="left">Tools:</h3>
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp; 
-  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" title="Express.JS" alt="Express.JS" width="40" height="40"/>&nbsp; 
-
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=callmemaverick&show_icons=true&theme=transparent&hide=issues,contribs" alt="GitHub Stats"/>
+  </p>
 </div>
+
 
