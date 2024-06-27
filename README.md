@@ -36,9 +36,6 @@
   </a>
 </div>
   
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=callmemaverick&show_icons=true&theme=transparent&hide=issues,contribs" alt="GitHub Stats"/>
-  </p>
-</div>
+
 
 
