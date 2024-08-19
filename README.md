@@ -27,7 +27,7 @@
   <h3>⚙️ Tools:</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,tailwind,git,jest" alt="Tools"/>
+      <img src="https://skillicons.dev/icons?i=html,css,tailwind,googlecloud,git,jest" alt="Tools"/>
     </a>
   </p>
   <div align="center">
