@@ -20,7 +20,7 @@
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,next,mui,mongo" alt="Tech Stack"/>
       <br>
-      <img src="https://skillicons.dev/icons?i=python,flask,mysql" alt="More Tech Stack"/>
+      <img src="https://skillicons.dev/icons?i=python,fastapi,flask,mysql" alt="More Tech Stack"/>
       <br>
       <img src="https://skillicons.dev/icons?i=cpp" alt="More Tech Stack"/>
     </a>
