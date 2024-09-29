@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sviatoslav</h1>
 <h3 align="center">A passionate developer from Ukraine 🇺🇦</h3>
 
-<p align="center">Software Engineering student with a strong background in coding and technology. Keen to engage in projects that push the boundaries of innovation and contribute tangible results.</p>
+<p align="center">Software Engineering with a strong background in coding and technology. Keen to engage in projects that push the boundaries of innovation and contribute tangible results.</p>
 
 
 <div align="center">
