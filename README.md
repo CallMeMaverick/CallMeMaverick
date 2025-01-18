@@ -22,6 +22,8 @@
       <br>
       <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgres,mysql" alt="More Tech Stack"/>
       <br>
+      <img src="https://skillicons.dev/icons?i=sklearn,tensorflow" alt="ML/AI"/>
+      <br>
       <img src="https://skillicons.dev/icons?i=cpp" alt="More Tech Stack"/>
     </a>
   </p>
